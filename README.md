@@ -1,4 +1,5 @@
 ### Hi there 👋
+:four_leaf_clover:
 # 💪Skills
 ### Platforms & Languages
 <div>
@@ -14,7 +15,7 @@
 <div>
   <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
+  <img src="https://img.shields.io/badge/tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
 </div>
 <!--
 **guummy/guummy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
